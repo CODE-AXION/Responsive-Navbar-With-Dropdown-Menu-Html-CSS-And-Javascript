@@ -7,12 +7,12 @@
 <h2>[-] A Different Section For Dropdown Menu To Fit More Content</h2>
 <h2>[-] Glassmorphism Effect On Search Bar</h2>
 <br>
-<h2>Desktop Vesion with Input/No-Input</h2>
+<h2>Desktop Version with Input/No-Input</h2>
 <img src="images/noinput.png " >
 
 <img src="images/withinput.png">
-<h2>Desktop/Tablet Vesion with Mega Menu</h2>
+<h2>Desktop/Tablet Version with Mega Menu</h2>
 <img src="images/3.png">
-<h2>Mobile Vesion</h2>
+<h2>Mobile Version</h2>
 <img src="images/mobile.png">
 
