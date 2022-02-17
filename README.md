@@ -4,8 +4,8 @@
 <h2>[-] Responsive For Mobile</h2>
 <h2>[-] Mega Menu Support</h2>
 <h2>[-] Search Bar On Toggle</h2>
+<h2>[-] Drop-Down Menu</h2>
 <h2>[-] A Different Section For Dropdown Menu To Fit More Content</h2>
-<h2>[-] Glassmorphism Effect On Search Bar</h2>
 <br>
 <h2>Desktop Version with Input/No-Input</h2>
 <img src="images/noinput.png " >
